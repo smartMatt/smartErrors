@@ -1,0 +1,17 @@
+{
+  "name": "smartErrors",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Ross <matt@smartsrc.com>"
+  ],
+  "description": "Utility to log console and ajax errors",
+  "main": "smart-errors.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
